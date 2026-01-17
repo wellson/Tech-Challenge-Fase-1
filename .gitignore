@@ -4,6 +4,9 @@ venv/
 env/
 ENV/
 
+# Data files
+DENGBR22.csv
+
 # Python
 __pycache__/
 *.py[cod]
