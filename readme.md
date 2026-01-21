@@ -9,12 +9,15 @@
 **Contexto:** Um hospital universitário brasileiro precisa acelerar a triagem de pacientes com suspeita de dengue durante períodos de surto, quando o volume de casos aumenta exponencialmente.
 
 ---
-### Integrantes do grupo
-Os membros do grupo são compostos pelos seguintes alunos:
+### Integrantes do grupo: 100
+O grupo é composto pelos seguintes alunos:
 
 Rangel Daykes Domingos dos Santos (rm369280) (daykes@gmail.com)
+
 Wellson Almeida dos Santos (rm369201) (wellson.digital@gmail.com)
+
 Nelson Seiji Takahashi (rm370089) (seiji8503@gmail.com)
+
 Renato Ribeiro Serrão (rm369966) (renatorserrao@gmail.com)
 
 ---
